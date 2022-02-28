@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+background: linear-gradient(45deg, #47007f, #6100ac);
+				background-repeat: none;
+				min-height: 100vh;
+}
+.hotbar{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+}
+.Sobre{
+				margin-left: 200px;
+				margin-top: 0.5rem;
+				background-color: white;
+				border-radius: 30px;
+				padding: 10px 20px 10px 20px;
+				font-weight: 300;
+				border: none;
+				font-size: 1rem;
+				box-shadow: 5px 5px 5px rgb(0,0,0,0.2);
+				cursor: pointer;
+				font-family: "Poppins", sans-serif;
+				position: relative;
+}
+.Morow{
+				font-family: "PT Sans", sans-serif;
+				font-size: 1rem;
+				color: white;
+				margin-left: 0.8rem;
+				margin-top: 1rem;
+}
+.Hisoka{
+				width: 30px;
+				height: 40px;
+				margin-top: 0.5em;
+}
+.Titulo{
+				margin-top: 5rem;
+				color: white;
+				font-family: 'Bold', sans-serif;
+				font-size: 30px;
+}
+@font-face  {
+				font-family: 'Bold';
+				src: url('Incised 901 Black.ttf') format("truetype");
+}
+.Logar{
+				color: white;
+				background: black;
+				border-radius: 30px;
+				padding: 20px 30px 20px 30px;
+				font-weight: 300;
+				border: none;
+				font-size: 1rem;
+				box-shadow: 5px 5px 5px rgb(0,0,0,0.2);
+				cursor: pointer;
+				font-family: "Poppins", sans-serif;
+				margin-top: 1rem;
+}
+.Naveg{
+				text-decoration: none;
+				color: white;
+}
+.part1{
+				background-color: white;
+}
+.titulo2{
+				font-family: 'Bold', sans-serif;
+				font-size: 15px;
+				text-align: left;
+				margin-left: 1rem;
+}
+.parte1{
+				background-color: white;
+				min-height: 80vh;
+				margin-top: 30px;
+				margin-left: -1rem;
+				margin-right: -1rem;
+}
+.Comuimg{
+				height: 300px;
+				margin-top: 5rem;
+				width: 400px;
+}
+.Imgprincipal{
+				height: 200px;
+				width: 400px;
+				margin-top: 1rem;
+}
+.text1{
+				color: white;
+				font-family: "Open Sans", sans-serif;
+}
+.text2{
+				font-family: 'Open Sans', sans-serif;
+				margin-left: 1rem;
+				font-size: 15px;
+}
